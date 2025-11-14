@@ -8,9 +8,9 @@ This project was developed as part of the IE4483 Artificial Intelligence and Dat
 
 ## Team Members
 
-- **Pagdanganan Robert Martin Gosioco** (U2221587C) - PAGD0001@e.ntu.edu.sg
-- **Tan Chuan Bing** (U2221847B)
-- **Tan Hong Yu** (U2222015J) - TANH0264@e.ntu.edu.sg
+- **Pagdanganan Robert Martin Gosioco** 
+- **Tan Chuan Bing** 
+- **Tan Hong Yu** 
 
 School of Electrical and Electronic Engineering, Nanyang Technological University
 
